@@ -12,3 +12,33 @@ main{
     text-align: center;
     margin-top: 2px;
 }
+.location {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 72px;
+    color: antiquewhite;
+    padding-top: 200px;
+    text-shadow: 2px 2px 5px #333;
+}
+.country {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: antiquewhite;
+    padding-top: 5px;
+    text-shadow: 2px 2px 3px #333;
+}
+.weather {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color: aquamarine;
+    padding-top: 20px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 6px #333;
+}
+.temp{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 85px;
+    color: aquamarine;
+    text-shadow: 4px 3px 5px #333;
+    background-color: rgba(0, 0, 0, 0.144);
+    border-radius: 90px;
+}
