@@ -1,0 +1,14 @@
+body {
+    background-image: url('./img/sunny.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: auto;
+    background-color: black;
+}
+main{
+    text-align: center;
+    margin-top: 2px;
+}

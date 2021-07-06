@@ -18,10 +18,10 @@ function Fetchweather() {
         })
     },[])
        return(
-           <main>
-           <div>{location}</div><span>{country}</span>
-           <div>{weather}</div>
-           <div>{temp}</div>
+           <main className="main">
+           <div className="location">{location}</div><span className="country">{country}</span>
+           <div className="weather">{weather}</div>
+           <div className="temp">{temp}</div>
            </main>
        ) 
 }
